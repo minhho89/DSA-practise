@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4e062053-09d6-4a22-b117-e4c228ba3f7a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AlgoDataStructurePractise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/annotations-24.0.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-engine-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-jupiter-params-5.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-commons-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/junit-platform-engine-1.8.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/CheckPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/IsUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/OneEditAway.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/PalindromePermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysAndStrings/URLify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ArraysAndStrings/CheckPermutationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ArraysAndStrings/IsUniqueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ArraysAndStrings/OneEditAwayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ArraysAndStrings/PalindromePermutationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/ArraysAndStrings/URLifyTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2ZdAf84AFCyoPc0i2SMA7lzT0ej" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Users/minhho/projects/AlgoDataStructurePractise/src/Main.java&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="test.ArraysAndStrings" />
+      <recent name="test" />
+      <recent name="ArraysAndStrings" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.OneEditAwayTest.testOneEditAway_DifferentLengths">
+    <configuration name="OneEditAwayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneEditAwayTest.testOneEditAway_DifferentLengths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
+      <option name="METHOD_NAME" value="testOneEditAway_DifferentLengths" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneEditAwayTest.testOneEditAway_Insert" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
+      <option name="METHOD_NAME" value="testOneEditAway_Insert" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneEditAwayTest.testOneEditAway_Remove" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
+      <option name="METHOD_NAME" value="testOneEditAway_Remove" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OneEditAwayTest.testOneEditAway_Replace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
+      <option name="METHOD_NAME" value="testOneEditAway_Replace" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.OneEditAwayTest.testOneEditAway_DifferentLengths" />
+        <item itemvalue="JUnit.OneEditAwayTest" />
+        <item itemvalue="JUnit.OneEditAwayTest.testOneEditAway_Replace" />
+        <item itemvalue="JUnit.OneEditAwayTest.testOneEditAway_Remove" />
+        <item itemvalue="JUnit.OneEditAwayTest.testOneEditAway_Insert" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4e062053-09d6-4a22-b117-e4c228ba3f7a" name="Changes" comment="" />
+      <created>1702741685820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702741685820</updated>
+      <workItem from="1702741686974" duration="3557000" />
+      <workItem from="1702803186180" duration="4000" />
+      <workItem from="1702803215187" duration="1446000" />
+      <workItem from="1702804711716" duration="6007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/ArraysAndStrings/OneEditAwayTest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AlgoDataStructurePractise$URLifyTest_urlify.ic" NAME="URLifyTest.urlify Coverage Results" MODIFIED="1702747492411" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.ArraysAndStrings.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/AlgoDataStructurePractise$IsUniqueTest.ic" NAME="IsUniqueTest Coverage Results" MODIFIED="1702742470993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ArraysAndStrings.*</FILTER>
+    </SUITE>
+  </component>
+</project>
