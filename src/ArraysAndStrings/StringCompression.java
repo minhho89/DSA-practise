@@ -8,4 +8,7 @@ package ArraysAndStrings;
  * the original string. You can assume the string has only uppercase and lowercase letters (a-z)
  */
 public class StringCompression {
+    public static String compressString(String input) {
+    return "";
+    }
 }
