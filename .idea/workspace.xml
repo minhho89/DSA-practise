@@ -5,13 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e062053-09d6-4a22-b117-e4c228ba3f7a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataStructures/LinkedList/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/DataStructures/LinkedList/LinkedListTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/twoPointers/MoveZeroesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/twoPointers/MoveZeroes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ArraysAndStrings/StringCompression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysAndStrings/StringCompression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AlgoDataStructurePractise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AlgoDataStructurePractise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ArraysAndStrings/CheckPermutationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ArraysAndStrings/IsUniqueTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ArraysAndStrings/OneEditAwayTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ArraysAndStrings/PalindromePermutationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/ArraysAndStrings/URLifyTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/DataStructures/LinkedList/LinkedListTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/twoPointers/MoveZeroesTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +66,9 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/minhho/projects/AlgoDataStructurePractise/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -78,7 +83,44 @@
       <recent name="ArraysAndStrings" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.LinkedListTest.testRemoveLast">
+  <component name="RunManager" selected="JUnit.All in AlgoDataStructurePractise">
+    <configuration name="All in AlgoDataStructurePractise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysAndStrings in AlgoDataStructurePractise" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ArraysAndStrings" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckPermutationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AlgoDataStructurePractise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.ArraysAndStrings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
+      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.CheckPermutationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LinkedListTest.testRemoveLast" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AlgoDataStructurePractise" />
       <extension name="coverage">
@@ -111,60 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OneEditAwayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgoDataStructurePractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.DataStructures.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OneEditAwayTest.testOneEditAway_DifferentLengths" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgoDataStructurePractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.DataStructures.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
-      <option name="METHOD_NAME" value="testOneEditAway_DifferentLengths" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="OneEditAwayTest.testOneEditAway_Replace" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="AlgoDataStructurePractise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.DataStructures.LinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="test.ArraysAndStrings" />
-      <option name="MAIN_CLASS_NAME" value="test.ArraysAndStrings.OneEditAwayTest" />
-      <option name="METHOD_NAME" value="testOneEditAway_Replace" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in AlgoDataStructurePractise" />
+        <item itemvalue="JUnit.ArraysAndStrings in AlgoDataStructurePractise" />
+        <item itemvalue="JUnit.CheckPermutationTest" />
         <item itemvalue="JUnit.LinkedListTest.testRemoveLast" />
         <item itemvalue="JUnit.MoveZeroesTest.test1" />
-        <item itemvalue="JUnit.OneEditAwayTest.testOneEditAway_DifferentLengths" />
-        <item itemvalue="JUnit.OneEditAwayTest" />
-        <item itemvalue="JUnit.OneEditAwayTest.testOneEditAway_Replace" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +176,8 @@
       <workItem from="1702803215187" duration="1446000" />
       <workItem from="1702804711716" duration="6925000" />
       <workItem from="1703994481750" duration="613000" />
-      <workItem from="1720106524898" duration="1680000" />
+      <workItem from="1720106524898" duration="3145000" />
+      <workItem from="1720109686181" duration="244000" />
     </task>
     <servers />
   </component>
@@ -219,11 +215,6 @@
           <url>file://$PROJECT_DIR$/src/test/twoPointers/MoveZeroesTest.java</url>
           <line>12</line>
           <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/DataStructures/LinkedList/LinkedListTest.java</url>
-          <line>18</line>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/DataStructures/LinkedList/LinkedList.java</url>
